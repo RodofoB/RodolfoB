@@ -12,7 +12,7 @@ My life's journey alongside computers has led me to find and develop a passion f
 ## CyberSecurity Projects
 - <a href="https://github.com/RodolfoMBD/Microsolft-Windows-Defender-and-Firewall/blob/main/README.md">[Microsoft Windows Defender & Firewall]</a>
 - <a href="https://github.com/RodolfoMBD/Intro-To-Network-Traffic-Analysis/blob/main/README.md">[Network Traffic Analysis]</a>
-- [ActiveDirectory]
+- [ActiveDirectory] [Current]
 
 
 ## Skills
@@ -21,10 +21,8 @@ My life's journey alongside computers has led me to find and develop a passion f
 |-----------------------------------------------|----------------------------|
 | Threat Detection and Firewall Configurations          |  <a href="https://github.com/RodolfoMBD/Microsolft-Windows-Defender-and-Firewall/blob/main/README.md">Windows Defender & Firewall</a> |
 | Network Traffic Monitoring and Analysis | <a href="https://github.com/RodolfoMBD/Intro-To-Network-Traffic-Analysis/blob/main/README.md">Network traffic Analysis</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
 
 ## Tools
 
