@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rodolfo-bueno/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-CompTIA Security+ and Google Cybersecurity certificate graduate. I am eager to apply my skills in the field and help safeguard organizational assets. Fluent in English and Spanish with strong oral and written communication capabilities.  Knowledgeable about NIST frameworks and security controls. Proficient in database querying using SQL; and incident escalation and response. As well as, Linux command line, and Python. 
+CompTIA Security+ and Google Cybersecurity certificate graduate with a profund interest in technology and a passion for solving challenging problems. I am eager to apply my skills in the field and help safeguard organizational assets. Fluent in English and Spanish with strong oral and written communication capabilities.  Knowledgeable about NIST frameworks and the incident response lifecycle. Proficient in database querying using SQL, as well as, Linux command line, and Python.
 
 ## Objective
 
@@ -28,31 +28,28 @@ My life's journey alongside computers has led me to find and develop a passion f
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
+    <img src="https://img.shields.io/badge/TCPdump-beige?style=for-the-badge&logo=tcpdump" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPLUNK-orange?style=for-the-badge&logo=spunk&link=https%3A%2F%2Fwww.splunk.com%2F" />
+</div>
+
+### ENDPOINT
+<div>
+    <img src="https://img.shields.io/badge/Windows_Defender-blue?style=for-the-badge&logo=windows" />
 </div>
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/6209e345-3b8d-4a5f-9d55-1872131da801/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA_Security%2B-red" />
-<a href="https://www.credly.com/badges/371b7448-01ad-4712-bf14-dc6ee167cb5b/linked_in_profile"><img src="https://img.shields.io/badge/Google_CyberSecurity-yellow" />
+<a href="https://www.credly.com/badges/6209e345-3b8d-4a5f-9d55-1872131da801/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA_Security%2B-red?style=for-the-badge&logo=Comptia" />
+<a href="https://www.credly.com/badges/371b7448-01ad-4712-bf14-dc6ee167cb5b/linked_in_profile"><img src="https://img.shields.io/badge/Google_CyberSecurity-yellow?style=for-the-badge&logo=google" />
 </div>
 
