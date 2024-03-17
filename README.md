@@ -10,18 +10,17 @@ My life's journey alongside computers has led me to find and develop a passion f
 
 
 ## CyberSecurity Projects
-- [Detection Lab]
+- <a href="https://github.com/RodolfoMBD/Microsolft-Windows-Defender-and-Firewall/blob/main/README.md">[Microsoft Windows Defender & Firewall]</a>
 - [Network Traffic Analysis]
 - [ActiveDirectory]
 
-- 
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Threat Detection and Firewall Configurations          |  <a href="https://github.com/RodolfoMBD/Microsolft-Windows-Defender-and-Firewall/blob/main/README.md">Windows Defender & Firewall</a> |
+| Network Traffic Monitoring and Analysis | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
