@@ -21,6 +21,7 @@ My life's journey alongside computers has led me to find and develop a passion f
 |-----------------------------------------------|----------------------------|
 | Threat Detection and Firewall Configurations          |  <a href="https://github.com/RodolfoMBD/Microsolft-Windows-Defender-and-Firewall/blob/main/README.md">Windows Defender & Firewall</a> |
 | Network Traffic Monitoring and Analysis | <a href="https://github.com/RodolfoMBD/Intro-To-Network-Traffic-Analysis/blob/main/README.md">Network traffic Analysis</a> |
+| Activce Directory Fundamentals | <a href="https://github.com/RodolfoMBD/ActiveDirectoryProject/blob/main/README.md">Active Directory Part1</a> |
 
 
 
@@ -31,6 +32,10 @@ My life's journey alongside computers has led me to find and develop a passion f
 <div>
     <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
     <img src="https://img.shields.io/badge/TCPdump-beige?style=for-the-badge&logo=tcpdump" />
+    <img src="https://img.shields.io/badge/NetCat-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NMap-gray?style=for-the-badge&logo=nmap" />
+
+
 </div>
 
 
@@ -42,6 +47,7 @@ My life's journey alongside computers has led me to find and develop a passion f
 ### ENDPOINT
 <div>
     <img src="https://img.shields.io/badge/Windows_Defender-blue?style=for-the-badge&logo=windows" />
+    <img src="https://camo.githubusercontent.com/cd7afa6c006781103b5bdf39bf124432be912fcb5a01f00643f25e60ee6b13cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4163746976652532304469726563746f72792d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d4144266c6f676f436f6c6f723d79656c6c6f77266c6162656c436f6c6f723d677265656e" />
 </div>
 
 ## Certifications
