@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rodolfo-bueno/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-CompTIA Security+ and Google Cybersecurity certificate graduate with a profund interest in technology and a passion for solving challenging problems. I am eager to apply my skills in the field and help safeguard organizational assets. Fluent in English and Spanish with strong oral and written communication capabilities.  Knowledgeable about NIST frameworks and the incident response lifecycle. Proficient in database querying using SQL, as well as, Linux command line, and Python.
+CompTIA Security+ and Google Cybersecurity certificate graduate with a profound interest in technology and a passion for solving challenging problems. I am eager to apply my skills in the field and help safeguard organizational assets. Fluent in English and Spanish,  strong oral and written communication capabilities, and effective reporting and technical documentation skills. Knowledgeable about security principles and regulatory frameworks. Proficient in database querying using SQL, threat and risk assessments, automation with Python, and network monitoring.
 
 ## Objective
 
