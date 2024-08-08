@@ -6,7 +6,7 @@ CompTIA Security+ and Google Cybersecurity certificate graduate with a profund i
 
 ## Objective
 
-My life's journey alongside computers has led me to find and develop a passion for cybersecurity, especially for protecting the privacy of information and the true importance of this matter. Now I am eager to transition into this field, to improve and grow my skill sets. Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My life's journey alongside computers has led me to find and develop a passion for cybersecurity, especially for protecting the privacy of information and the true importance of this matter. Now I am eager to transition into this field, to improve and grow my skill sets.
 
 
 ## CyberSecurity Projects
